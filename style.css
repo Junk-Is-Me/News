@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background: url("https://unsplash.com/photos/woU_wlxXprQ!") bottom no-repeat ;
+    background-size: cover;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:red;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
