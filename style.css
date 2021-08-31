@@ -78,3 +78,10 @@ footer .links > a{
     font-family: 'Times New Roman', Times, serif;
 
 }
+
+article:nth-child(even) {
+    background-color: saddlebrown;
+}
+.new::before {
+    content: "New ";
+}
